@@ -911,12 +911,10 @@ body {
                   display: block; }
                 body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image {
                   border: 1px solid var(--cl-primary-border-color);
-                  border-radius: 50px;
                   overflow: hidden;
                   background: #e6ecf0; }
                   body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image img.lozad {
-                   width:100%;
-                 border-radius: 50px;}
+                   width:100%;}
                     body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image img.lozad:not([data-loaded]) {
                       visibility: hidden; }
                   body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image a.fbox-media {
