@@ -841,6 +841,7 @@ body {
                     @media (max-width: 1199.98px) {
                       body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__publisher div.post-username a span {
                         display: block;
+                        overflow: visible;
                         width: 100%; } }
                 body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__publisher div.post-time {
                   color: var(--cl-secondary-text-color);
@@ -3112,8 +3113,8 @@ body {
       line-height: 0;
       margin-left: 0px; }
       body span.user-name-holder span.user-name-holder__badge svg {
-        width: 15px;
-        height: 15px;
+        width: 20px;
+        height: 20px;
         fill: var(--cl-primary-color); }
   body a.image-wrapper.fbox-media {
     display: inherit !important;
