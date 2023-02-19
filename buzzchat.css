@@ -82,32 +82,32 @@ body[data-bg="default"] {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 300;
-  src: url("../fonts/Montserrat/Montserrat-Light.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-Light.woff2") format("woff2"); }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Montserrat/Montserrat-Regular.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-Regular.woff2") format("woff2"); }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
-  src: url("../fonts/Montserrat/Montserrat-Medium.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-Medium.woff2") format("woff2"); }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
-  src: url("../fonts/Montserrat/Montserrat-SemiBold.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-SemiBold.woff2") format("woff2"); }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/Montserrat/Montserrat-Bold.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-Bold.woff2") format("woff2"); }
 @font-face {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 900;
-  src: url("../fonts/Montserrat/Montserrat-Black.woff2") format("woff2"); }
+  src: url("https://buzzchat.site/themes/buzzchat/statics/fonts/Montserrat/Montserrat-Black.woff2") format("woff2"); }
 /* ===================================================== */
 body.cl-app-ads div.ads-management div.ads-management__upsert {
   padding: var(--cl-primary-offset-size); }
