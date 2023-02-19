@@ -1026,7 +1026,7 @@ body {
                   border-radius: 20px;
                   border: 2px solid var(--cl-primary-border-color);
                   position: relative;
-                  margin-left: -10px; }
+                   }
                   body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-og div.publication-og__inner {
                     overflow: hidden; }
                     body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-og div.publication-og__inner.embeded-iframe {
