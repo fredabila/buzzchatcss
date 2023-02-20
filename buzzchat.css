@@ -2471,9 +2471,8 @@ body {
     right: 0;
     background: #fff;
     z-index: 1000;
-    height: 60px;
-    border-top: 2px solid #bbd4e5;
-    margin-bottom: 2.5px;
+    height: 55px;
+    border-top: 1px solid #bbd4e5;
     display: none; }
     body div.mobile-bottom-navbar div.mobile-bottom-navbar-inner {
       width: 100%;
