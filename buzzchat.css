@@ -760,12 +760,9 @@ body {
               body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-searchbar form.timeline-searchbar__form div.keyword-input span.keyword-input__right-icon:active svg, body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-searchbar form.timeline-searchbar__form div.keyword-input span.keyword-input__right-icon:hover svg, body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-searchbar form.timeline-searchbar__form div.keyword-input span.keyword-input__right-icon:focus svg {
                 fill: var(--cl-primary-color); }
         body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item {
-    padding: 20px;
-    padding-bottom: 25px;
-    border-radius: 20px;
-    border: 2px solid #9a9ea1;
-    box-shadow: 0px 0px 10px 0px #9a9ea1;
-    margin: 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-top: 2px solid #9a9ea1;
         }
           body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__header {
             display: flex;
