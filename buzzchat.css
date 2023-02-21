@@ -7011,7 +7011,6 @@ body.cl-app-thread main.main-content-container div.main-content-container-inner 
         bottom: -25px;
         left: 24px;
         width: 4px;
-        background: var(--cl-primary-color);
         border-radius: 5px; }
       @media (max-width: 1199.98px) {
         body.cl-app-thread main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container div.timeline-posts-container div.timeline-posts-ls.thread-replys div.timeline-posts-ls-group div.timeline-posts-ls-group-inner div.post-list-item div.post-list-item__content div.post-data div.post-data__avatar:before {
