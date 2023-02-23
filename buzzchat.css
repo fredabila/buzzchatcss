@@ -3939,17 +3939,16 @@ color: #fff;
         margin-bottom: 10px;
         margin-left: var(--cl-primary-offset-size); }
         body div.timeline-pubbox-container form.form div.timeline-pubbox div.timeline-pubbox__header div.timeline-pubbox__textinput div.pubbox-input textarea {
-    display: block;
     width: 100%;
-    min-height: 80px;
-    max-height: 4000px;
-    resize: none;
+    max-width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
     font-size: 16px;
-    color: var(--cl-primary-text-color);
-    line-height: 1.4;
-    border-radius: 10px;
-    outline: 0;
-    background: #2d70d34f; }
+    line-height: 1.5;
+    background: #2d70d34f;}
           body div.timeline-pubbox-container form.form div.timeline-pubbox div.timeline-pubbox__header div.timeline-pubbox__textinput div.pubbox-input textarea::placeholder {
             color: var(--cl-input-placeholder-color);
             font-size: 18px;
