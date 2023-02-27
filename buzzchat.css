@@ -4828,13 +4828,10 @@ body.cl-app-conversation div.conversation {
             max-width: 55%;
             min-width: 0px; }
             body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item div.message-data div.message-data__body div.message-text {
-              padding: 12px var(--cl-primary-offset-size);
-              font-size: 16px;
-              color: var(--cl-primary-text-color);
-              border-radius: var(--cl-primary-border-radius); }
+ }
               @media (max-width: 1199.98px) {
                 body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item div.message-data div.message-data__body div.message-text {
-                  font-size: 13px; } }
+ } }
             body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item div.message-data div.message-data__body div.message-media a.image-wrapper {
               display: inline-block;
               width: auto;
@@ -4889,14 +4886,13 @@ body.cl-app-conversation div.conversation {
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data {
           flex-direction: row-reverse; }
           body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data div.message-data__body div.message-text {
-            background: #bad1df; }
+}
           body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data div.message-data__ctrls {
             margin-right: var(--cl-primary-offset-size); }
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-time {
           text-align: right; }
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text {
-          background: #254a3c;
-          color: #ffffff; }
+          background: #24cf60; }
                    body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link {
             color: #ffffff !important; }
             body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link:hover, body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link:active {
