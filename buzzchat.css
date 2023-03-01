@@ -5007,8 +5007,6 @@ body.cl-app-guest {
       right: -350px; }
     @media (max-width: 1199.98px) {
       body.cl-app-guest div.welcome-page {
-        background: aqua;
-        background-image: url(https://miro.medium.com/max/1400/1*wZpbzd4hKTpBGtGTvf_SYA.jpeg);
 }}
         body.cl-app-guest div.welcome-page::before, body.cl-app-guest div.welcome-page::after {
           display: none; } }
