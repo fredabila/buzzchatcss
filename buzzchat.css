@@ -1877,7 +1877,6 @@ body {
         -o-transition: left 0.5s;
         -webkit-transition: left 0.5s;
         transition: left 0.5s;
-        z-index: 1000;
         will-change: min-height; }
         body main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner {
           padding: var(--cl-primary-offset-size) 50px var(--cl-primary-offset-size) 0px;
