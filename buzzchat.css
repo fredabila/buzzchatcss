@@ -4887,14 +4887,19 @@ body.cl-app-conversation div.conversation {
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data {
           flex-direction: row-reverse; }
           body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data div.message-data__body div.message-text {
-    background: #bad1df; }
+background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-gradient-from: #06b6d4;
+    --tw-gradient-to: #3b82f6;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to); }
           body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-data div.message-data__ctrls {
             margin-right: var(--cl-primary-offset-size); }
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.right div.message-time {
           text-align: right; }
         body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text {
-background: #254a3c;
-    color: #ffffff;}
+background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-gradient-from: #8b5cf6;
+    --tw-gradient-to: #e291f9;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to); }
                    body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link {
             color: #ffffff !important; }
             body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link:hover, body.cl-app-conversation div.conversation div.conversation__body div.conversation-messages div.conversation-messages__item.left div.message-data div.message-data__body div.message-text a.inline-link:active {
