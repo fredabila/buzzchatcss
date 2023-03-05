@@ -942,9 +942,10 @@ body {
                       body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image a.fbox-media div.video-play-button:hover span.video-play-button__arrow, body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-image a.fbox-media div.video-play-button:active span.video-play-button__arrow {
                         background: rgba(0, 0, 0, 0.7); }
                 body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-video {
-                  border: 1px solid var(--cl-primary-border-color);
-                  border-radius: var(--cl-secondary-border-radius);
-                  background: #e6ecf0; }
+    border: 40px solid #333333;
+    border-radius: 10px;
+    background: #e6ecf0;
+    box-shadow: 0 0 10px rgb(0 0 0 / 50%); }
                 body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__content div.publication-images-collage {
                   display: flex;
                   justify-content: flex-start;
