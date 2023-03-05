@@ -776,7 +776,7 @@ body {
               body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__header div.publication-repost a {
                 font-size: 11px;
                 color: var(--cl-primary-color);
-                display: inline-block;
+                display: flex;
                 text-decoration: none;
                 text-transform: uppercase;
                 font-weight: 500; }
