@@ -819,7 +819,9 @@ body {
                 }
                 @media (max-width: 1199.98px) {
                   body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__publisher {
-                    align-items: flex-start; } }
+   align-items: flex-start;
+    bottom: -12px;
+    position: relative; } }
                 body main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-posts-container div.timeline-posts-ls div.post-list-item div.post-list-item__content div.post-data div.post-data__content div.post-data__content-inner div.post-data-layout div.post-data-layout__publisher div.post-username {
                   flex: 1;
                   line-height: 1; }
