@@ -2493,8 +2493,7 @@ body {
         position: relative; }
         body div.mobile-bottom-navbar div.mobile-bottom-navbar-inner button.navbar-ctrl svg {
           width: 25px;
-          height: 25px;
-          fill: #a1920d; }
+          height: 25px; }
         body div.mobile-bottom-navbar div.mobile-bottom-navbar-inner button.navbar-ctrl span.info-indicators {
           position: absolute;
           top: -10px;
