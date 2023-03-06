@@ -6167,12 +6167,13 @@ body.cl-app-home div.modal.modal-swift-pubbox div.modal-body form.form div.swift
 
 /* ===================================================== */
 body.cl-app-chat div.chats div.chat-contacts div.contacts-list__item {
-     padding: var(--cl-primary-offset-size);
-    border-bottom: 1px solid powderblue;
-    cursor: pointer;
+    padding: var(--cl-primary-offset-size);
+    cursor: grab;
     overflow: hidden;
-    border-top: 1px solid powderblue;
-    border-radius: 20px; }
+    border-radius: 5px;
+    margin: 2px;
+    margin-bottom: 5px;
+    box-shadow: 1px 1px 5px rgb(0 0 0 / 50%); }
   body.cl-app-chat div.chats div.chat-contacts div.contacts-list__item:hover, body.cl-app-chat div.chats div.chat-contacts div.contacts-list__item:active {
     background: var(--cl-event-hover-bg); }
   body.cl-app-chat div.chats div.chat-contacts div.contacts-list__item a {
